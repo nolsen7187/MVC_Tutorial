@@ -83,3 +83,8 @@ c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcM
 c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
 c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.AddRatingMig.resources
+c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.UpdatedSchema.resources
+c:\users\nolsen\Desktop\Microsoft Press\Visual CSharp Step By Step\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.UpdatedSchemaDate.resources

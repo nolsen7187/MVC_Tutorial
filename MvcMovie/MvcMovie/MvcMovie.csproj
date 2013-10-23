@@ -189,6 +189,22 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201310231951370_Initial.cs" />
+    <Compile Include="Migrations\201310231951370_Initial.Designer.cs">
+      <DependentUpon>201310231951370_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201310231959322_AddRatingMig.cs" />
+    <Compile Include="Migrations\201310231959322_AddRatingMig.Designer.cs">
+      <DependentUpon>201310231959322_AddRatingMig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201310232004414_UpdatedSchema.cs" />
+    <Compile Include="Migrations\201310232004414_UpdatedSchema.Designer.cs">
+      <DependentUpon>201310232004414_UpdatedSchema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201310232013052_UpdatedSchemaDate.cs" />
+    <Compile Include="Migrations\201310232013052_UpdatedSchemaDate.Designer.cs">
+      <DependentUpon>201310232013052_UpdatedSchemaDate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Movie.cs" />
@@ -320,6 +336,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201310231951370_Initial.resx">
+      <DependentUpon>201310231951370_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310231959322_AddRatingMig.resx">
+      <DependentUpon>201310231959322_AddRatingMig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310232004414_UpdatedSchema.resx">
+      <DependentUpon>201310232004414_UpdatedSchema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201310232013052_UpdatedSchemaDate.resx">
+      <DependentUpon>201310232013052_UpdatedSchemaDate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
